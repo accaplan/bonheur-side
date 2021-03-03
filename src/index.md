@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Welcome
+title: Cafe Du Bonheur
 eleventyNavigation:
   key: Home
 ---
 
-Welcome to Eleventy starter.
+We have take away!

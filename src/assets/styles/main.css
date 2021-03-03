@@ -1,6 +1,17 @@
 @import 'tailwindcss/base';
 @import '_base.css';
-
 @import 'tailwindcss/components';
-
 @import 'tailwindcss/utilities';
+h1 {
+    color: palegoldenrod;
+    font-family: "Computer Modern Serif", serif;
+}
+
+main {
+    text-align: center;
+}
+
+body {
+    color: palegoldenrod;
+    font-family: "Computer Modern Serif", serif;
+}
